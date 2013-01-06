@@ -1,0 +1,8 @@
+org.jtrim.access
+org.jtrim.image
+org.jtrim.image.async
+org.jtrim.image.transform
+org.jtrim.swing.access
+org.jtrim.swing.component
+org.jtrim.swing.concurrent
+org.jtrim.swing.concurrent.async
