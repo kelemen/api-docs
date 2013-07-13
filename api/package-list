@@ -3,6 +3,7 @@ org.jtrim.image
 org.jtrim.image.async
 org.jtrim.image.transform
 org.jtrim.property
+org.jtrim.property.swing
 org.jtrim.swing.access
 org.jtrim.swing.component
 org.jtrim.swing.concurrent
