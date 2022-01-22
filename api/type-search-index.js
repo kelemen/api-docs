@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.jtrim2.image.async","l":"IIOReadProgressAdapter"},{"p":"org.jtrim2.image.async","l":"IIOReadUpdateAdapter"},{"p":"org.jtrim2.image.async","l":"InputStreamImageLink"},{"p":"org.jtrim2.image.async","l":"UriImageIOQuery"}];updateSearchResults();
