@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.jtrim2.swing.concurrent.query","c":"SwingQueries","l":"getSwingBackgroundDataProvider(AccessManager<IDType, RightType>)","u":"getSwingBackgroundDataProvider(org.jtrim2.access.AccessManager)"}];updateSearchResults();
