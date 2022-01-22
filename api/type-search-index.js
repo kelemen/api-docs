@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.jtrim2.logs","l":"LogCollector"}];updateSearchResults();
