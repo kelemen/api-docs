@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.jtrim2.taskgraph"},{"l":"org.jtrim2.taskgraph.basic"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"jtrim.task.graph","l":"org.jtrim2.taskgraph"},{"m":"jtrim.task.graph","l":"org.jtrim2.taskgraph.basic"}];updateSearchResults();
