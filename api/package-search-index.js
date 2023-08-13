@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.jtrim2.ui.concurrent"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"jtrim.ui.concurrent","l":"org.jtrim2.ui.concurrent"}];updateSearchResults();

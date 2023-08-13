@@ -1,1 +1,1 @@
-moduleSearchIndex = [];updateSearchResults();
+moduleSearchIndex = [{"l":"jtrim.ui.concurrent"}];updateSearchResults();
