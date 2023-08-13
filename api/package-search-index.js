@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.jtrim2.image.transform"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"jtrim.image.transform","l":"org.jtrim2.image.transform"}];updateSearchResults();
