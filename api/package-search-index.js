@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.jtrim2.cancel"},{"l":"org.jtrim2.concurrent"},{"l":"org.jtrim2.concurrent.collections"},{"l":"org.jtrim2.event"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"jtrim.concurrent","l":"org.jtrim2.cancel"},{"m":"jtrim.concurrent","l":"org.jtrim2.concurrent"},{"m":"jtrim.concurrent","l":"org.jtrim2.concurrent.collections"},{"m":"jtrim.concurrent","l":"org.jtrim2.event"}];updateSearchResults();
